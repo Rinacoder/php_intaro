@@ -1,0 +1,33 @@
+.ui-tabs {
+  padding: 0px;
+}
+.mobile-nav-select.input-container {
+  /*display: block;*/
+  margin-bottom: 20px;/*отступ*/
+
+}
+
+.mobile-nav-select.input-container.bordered {
+  background-color: #ff5533;
+  padding: 20px 0px;
+  border-top: 1px solid #CD853F;
+  border-bottom: 1px solid #bbe1ee;
+
+
+}
+.mobile-nav-select.input-container.wide {
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+
+/*стиль*/
+.mobile-nav-select.input-container .custom-select .jq-selectbox__select {
+  background-color: #DDA0DD;
+  color: #D2B48C;
+  font-weight: 600;
+
+  }

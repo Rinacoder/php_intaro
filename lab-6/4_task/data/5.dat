@@ -1,0 +1,61 @@
+.ui-product-elements__product-equal {
+  width: 29px;
+  height: 29px;
+  padding-top: 4px;
+  padding-left: 3px;
+  color: #9FA1A1;
+  font-size: 1.2em;
+  border: 2px solid #9FA1A1;
+  border-radius: 25px;
+  right: 0; }
+.ui-product-elements__product-equal a.compare-click {
+  display: block;
+  margin-top: -19px;
+  margin-left: -3px;
+  position: absolute;
+}
+.ui-product-elements__product-equal:hover {
+  color: #ffffff;
+  background-color: #006564;
+  border: 2px solid #006564;
+  cursor: pointer;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal.active {
+  color: inherit;
+  background: none;
+  border: none;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal.active a {
+  text-decoration: none;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal.active a i.fa {
+  color: #ffffff;
+  background-color: #006564;
+  border: 2px solid #006564;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal:hover {
+  color: inherit;
+  background: none;
+  border: none;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal a i.fa {
+  margin-right: 15px;
+  padding: 5px 4px 4px 3.5px;
+  border: 2px solid #9FA1A1;
+  color: #9FA1A1;
+  border-radius: 25px;
+  width: 29px;
+  height: 29px;
+  font-size: 1.1em;
+}
+.tovar-detail__row-1 .ui-product-elements__product-equal a i.fa:hover {
+  color: #ffffff;
+  background-color: #006564;
+  border: 2px solid #006564;
+  cursor: pointer;
+}
+.tovar-detail__row-1 .ui-product-elements .ui-product-elements__product-equal {
+  border: none;
+  padding-top: 0;
+  padding-left: 0;
+}

@@ -1,0 +1,19 @@
+.ui-tabs {
+  padding: 0; }
+.mobile-nav-select.input-container {
+  /*display: block;*/
+  margin-bottom: 20px; }
+.mobile-nav-select.input-container.bordered {
+  background-color: #ff5533;
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #bbeeee; }
+.mobile-nav-select.input-container.wide {
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 10px;
+  padding-bottom: 10px; }
+.mobile-nav-select.input-container .custom-select .jq-selectbox__select {
+  background-color: #ffffff;
+  color: #006564;
+  font-weight: 600; }

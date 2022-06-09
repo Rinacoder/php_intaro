@@ -1,0 +1,10 @@
+.mobile-nav-select.input-container {
+  /*display: block;*/
+  margin-bottom: 20px; }
+.mobile-nav-select.input-container.wide {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 9px;
+
+}

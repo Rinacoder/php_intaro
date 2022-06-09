@@ -1,0 +1,24 @@
+/*комментарий */
+#id {
+    color: #FFAA00;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px; /*убираем левый отступ*/
+}
+.red,
+.warn {color: #FF0000;}
+.peru {
+        color: #CD853F;
+}
+.pink {
+        color: #FFC0CB;
+}
+.plum {
+        color: #DDA0DD;
+}
+.snow {
+        color: #FFFAFA;
+}
+.tan {
+        color: #D2B48C;
+}

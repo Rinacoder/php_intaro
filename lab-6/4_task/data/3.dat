@@ -1,0 +1,7 @@
+#id {
+    color: #ffffff;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 10px;
+}

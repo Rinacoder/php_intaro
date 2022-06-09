@@ -1,0 +1,11 @@
+/*комментарий */
+#id {
+    color: #AAFF22;
+    padding-top: 1px;
+    padding-bottom:10px;
+    padding-left: 0px;
+    padding-right: 5px;
+}
+.red,
+.warn {color: #FF0000;}
+.empty > .style {/*тут будут стили*/}
